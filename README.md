@@ -5,5 +5,5 @@ SoDark is a color theme designed to be as dark as possible (complete darkness) w
 SoDark is still a work in progress but otherwise, it is ready to use out of the box.
 
 ----------
-#### Issues or suggestions?
-* [Contact Nick Genghar via E-mail here](www.genghar15@gmail.com)
+#### For more information
+* [Github repository](https://github.com/NickGenghar/SoDark)
