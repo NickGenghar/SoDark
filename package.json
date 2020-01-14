@@ -1,0 +1,22 @@
+{
+    "name": "sodark",
+    "displayName": "SoDark",
+    "description": "A color theme so dark, you might need a night vision...",
+    "version": "0.0.1",
+    "publisher": "NickGenghar",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SoDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SoDark-color-theme.json"
+            }
+        ]
+    }
+}
