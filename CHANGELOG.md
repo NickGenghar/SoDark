@@ -7,6 +7,11 @@
 - Add
   1. Add an icon to this extention.
 
+## [Version 0.0.3]
+
+- Change
+  1. Modified colors of Git Decoration, looks softer and more user friendly.
+
 ## [Version 0.0.2]
 
 - Added
