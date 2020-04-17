@@ -2,7 +2,7 @@
     "name": "sodark",
     "displayName": "SoDark",
     "description": "A color theme designed to be as dark as possible while maintaining visibility of your codes in most light levels.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "NickGenghar",
     "repository": {
         "url": "https://github.com/NickGenghar/SoDark"
