@@ -7,7 +7,6 @@
 		"activityBar.activeFocusBorder": "#000000",
 		"activityBar.background": "#000000",
 		"activityBar.border": "#000000",
-		"activityBar.dropBackground": "#000000",
 		"activityBar.foreground": "#ffffff",
 		"activityBar.inactiveForeground": "#303030",
 		"activityBarBadge.background": "#000000",
@@ -56,8 +55,8 @@
 		"sideBarSectionHeader.background": "#08080880",
 		"sideBarSectionHeader.foreground": "#c0c0c080",
 		"scrollbarSlider.background": "#40404020",
-		"scrollbarSlider.hoverBackground": "#80808020",
-		"scrollbarSlider.activeBackground": "#40404020",
+		"scrollbarSlider.hoverBackground": "#a0a0a080",
+		"scrollbarSlider.activeBackground": "#80808020",
 		"settings.dropdownBackground": "#000000",
 		"settings.dropdownForeground": "#202020",
 		"settings.dropdownBorder": "#ffffff",
@@ -158,7 +157,7 @@
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
+				"punctuation.section.embedded"
 			],
 			"settings": {
 				"foreground": "#ffffff"
@@ -614,7 +613,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "italic"
 			}
 		},
 		{

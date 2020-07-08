@@ -7,6 +7,13 @@
 - Add
   1. Add an icon to this extention.
 
+## [Version 0.0.4]
+
+- Change
+  1. Modified colors of scrollbar slider to be more visible when hovering the cursor on it.
+- Remove
+  1. Remove color property `activityBar.dropBackground`, property not allowed.
+
 ## [Version 0.0.3]
 
 - Change
